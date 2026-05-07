@@ -5,6 +5,8 @@ public class App {
         System.out.println("2 + 3 = " + c.add(2, 3));
         System.out.println("new update")
         System.out.println("another new update")
+        System.out.println(" update from architect")
+        
         
         System.out.println("Reverse of hello = " + StringUtils.reverse("hello"));
     }
